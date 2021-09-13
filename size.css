@@ -2,8 +2,7 @@
 https://PDF.ist
 https://셅.works
 https://sert.works
-ALL RIGHTS RESERVED!
-PROPRIETARY SOFTWARE!
+LICENSED UNDER BSD-3
 */
 
 [size] { --wu: calc(var(--w) * var(--u)); --hu: calc(var(--h) * var(--u)); --ar: var(--w) / var(--h); }
@@ -105,8 +104,7 @@ PROPRIETARY SOFTWARE!
 [size='5×7']             { --w: 5;    --h:       7;        --u: 1in; }
 
 /*
-PROPRIETARY SOFTWARE!
-ALL RIGHTS RESERVED!
+LICENSED UNDER BSD-3
 https://sert.works
 https://셅.works
 https://PDF.ist
