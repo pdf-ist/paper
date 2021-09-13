@@ -11,8 +11,9 @@
 
 ### URLs
 
-* https://open.pdf.ist/paper/size.css
 * https://cdn.jsdelivr.net/gh/pdf-ist/paper@latest/size.css
+* https://open.pdf.ist/paper/size.css (📦 minified)
+
 
 ---
 
