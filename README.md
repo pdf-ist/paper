@@ -27,7 +27,11 @@
     aspect-ratio: var(--w) / var(--h);
            width: var(--wu);
   }
-  .paper { background-color: #fbfbf8; outline: 1px solid #ccc; }
+  
+  .paper { background-color: #fbfbf8; outline: 1px solid #333; }
+  .paper[size=letter] { position: absolute; transform: translateY(-100%); }
+  .paper:hover { opacity: .5; }
+  .paper::before { content: attr(size); position: absolute; font-family: system-ui; }
 </style>
 <div size=A4     class=paper></div>
 <div size=letter class=paper></div>
