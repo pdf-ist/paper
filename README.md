@@ -35,8 +35,7 @@
 
 ### URLs
 
-* https://open.pdf.ist/paper/size.css (📦 minified, recommended)
-* https://cdn.jsdelivr.net/gh/pdf-ist/paper@latest/size.css (alternative)
+* https://open.pdf.ist/paper/size.css (📦 minified, recommended, CDN-backed by ⛅ Cloudflare)
 
 
 ### State
