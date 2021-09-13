@@ -1,3 +1,11 @@
+/*
+https://PDF.ist
+https://셅.works
+https://sert.works
+ALL RIGHTS RESERVED!
+PROPRIETARY SOFTWARE!
+*/
+
 [size] { --wu: calc(var(--w) * var(--u)); --hu: calc(var(--h) * var(--u)); --ar: var(--w) / var(--h); }
 
 /* ×                                                          complete
@@ -10,7 +18,7 @@
   USA                                                         🚧
 */
 
-/* ISO A B C=Envelope */
+/* ISO A B C=Envelope */ /* International Standards Organization */
 [size='4A0']    { --w: 1682; --h: 2378; --u: 1mm; }
 [size='2A0']    { --w: 1189; --h: 1682; --u: 1mm; }
 [size=A0]       { --w:  841; --h: 1189; --u: 1mm; } [size=B0]  { --w: 1000; --h: 1414; --u: 1mm; } [size=C0]     { --w:  917; --h: 1297; --u: 1mm; } /* For flat A0 sheet. */
@@ -39,7 +47,7 @@
 [size=A5-extra] { --w:  173; --h: 235; --u: 1mm; }
 [size=B5-extra] { --w:  202; --h: 276; --u: 1mm; } /* SO-B5-extra */
 
-/* JIS B */
+/* JIS B */ /* Japanese */
 [size=JIS-B0]  { --w: 1030; --h: 1456; --u: 1mm; }
 [size=JIS-B1]  { --w:  728; --h: 1030; --u: 1mm; }
 [size=JIS-B2]  { --w:  515; --h:  728; --u: 1mm; }
@@ -54,7 +62,7 @@
 [size=JIS-B11] { --w:   22; --h:   32; --u: 1mm; }
 [size=JIS-B12] { --w:   16; --h:   22; --u: 1mm; }
 
-/* Chinese D RD  */
+/* CHN D RD */ /* Chinese */
 [size=D0] { --w:  764; --h: 1064; --u: 1mm; } [size=RD0] { --w:  787; --h: 1092; --u: 1mm; }
 [size=D1] { --w:  532; --h:  760; --u: 1mm; } [size=RD1] { --w:  546; --h:  787; --u: 1mm; }
 [size=D2] { --w:  380; --h:  528; --u: 1mm; } [size=RD2] { --w:  393; --h:  546; --u: 1mm; }
@@ -64,7 +72,7 @@
 [size=D6] { --w:   92; --h:  126; --u: 1mm; } [size=RD6] { --w:   98; --h:  136; --u: 1mm; }
 
 
-/* North American 🚧 */
+/* USA 🚧 */ /* North American */
 [size=ledger]            { --w: 17;   --h:      11;        --u: 1in; } /**/
 [size=tabloid-extra]     { --w: 12;   --h:      18;        --u: 1in; }
 [size=european-EDP]      { --w: 12;   --h:      14;        --u: 1in; }
@@ -95,3 +103,11 @@
 [size=memo]              { --w: 5.5;  --h:       8.5;      --u: 1in; }
 [size=junior-legal]      { --w: 5;    --h:       8;        --u: 1in; }
 [size='5×7']             { --w: 5;    --h:       7;        --u: 1in; }
+
+/*
+PROPRIETARY SOFTWARE!
+ALL RIGHTS RESERVED!
+https://sert.works
+https://셅.works
+https://PDF.ist
+*/
