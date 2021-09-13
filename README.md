@@ -35,7 +35,7 @@
 
 ### URL
 
-* https://open.pdf.ist/paper/size.css <br>(📦 minified, via ⛅ Cloudflare CDN)
+* [https://<u>open</u>.**PDF**.*ist*/paper/size.css](https://open.pdf.ist/paper/size.css) <br>(📦 minified, via ⛅ Cloudflare CDN)
 
 
 ### State
