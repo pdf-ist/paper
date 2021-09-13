@@ -21,7 +21,7 @@
 
 This project is proudly sponsored by
 
-| `<pdf-page>` |
+| [`<pdf-page>`](//WebPDF.pro) |
 | :-: |
-| [<img src="https://webpdf.pro/.svg" width="64">](https://WebPDF.pro) |
-| [Web**PDF**.*pro*](https://WebPDF.pro) |
+| [<img src="https://webpdf.pro/.svg" width="64">](//WebPDF.pro) |
+| [Web**PDF**.*pro*](//WebPDF.pro) |
