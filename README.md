@@ -28,7 +28,7 @@
            width: var(--wu);
   }
   
-  .paper { background-color: #fbfbf8; outline: 1px solid #333; }
+  .paper { background-color: #fbfbf8; outline: 1px solid #ccc; }
   .paper[size=letter] { position: absolute; transform: translateY(-100%); }
   .paper:hover { opacity: .5; }
   .paper::before { content: attr(size); position: absolute; font-family: system-ui; }
