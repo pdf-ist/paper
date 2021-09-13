@@ -17,12 +17,12 @@
 <link href=//open.pdf.ist/paper/size.css rel=stylesheet>
 <style>
   [size] {
-    /*
-      --w:  paper width      (unitless)
-      --wu: paper width  with unit      == calc(var(--w) * var(--u))
-      --h:  paper height     (unitless)
-      --hu: paper height with unit      == calc(var(--h) * var(--u))
-      --u:  paper size        unit      == 1mm|1in
+    /*                                                                 A4    letter
+      --w:  paper width                                               210     8.5
+      --wu: paper width   ×   unit      == calc(var(--w) * var(--u))  210mm   8.5in
+      --h:  paper height                                              297    11
+      --hu: paper height  ×   unit      == calc(var(--h) * var(--u))  297mm  11in
+      --u:  paper size        unit                                      1mm   1in
     */
     aspect-ratio: var(--w) / var(--h); width: var(--wu);
   }
