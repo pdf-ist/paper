@@ -1,4 +1,4 @@
-# 🌐📄 Paper
+# 🌐📄 paper
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
