@@ -46,7 +46,7 @@ LICENSED UNDER BSD-3
 [size=A5-extra] { --w:  173; --h: 235; --u: 1mm; }
 [size=B5-extra] { --w:  202; --h: 276; --u: 1mm; } /* SO-B5-extra */
 
-/* JIS B */ /* Japanese */
+/* JPN B */ /* Japanese */
 [size=JIS-B0]  { --w: 1030; --h: 1456; --u: 1mm; }
 [size=JIS-B1]  { --w:  728; --h: 1030; --u: 1mm; }
 [size=JIS-B2]  { --w:  515; --h:  728; --u: 1mm; }
