@@ -1,0 +1,1 @@
+* Auto-formatted contributions will be dropped or accepted after careful 2D-realignment.
