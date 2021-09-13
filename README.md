@@ -33,9 +33,9 @@
 <div size=letter class=paper></div>
 ```
 
-### URLs
+### URL
 
-* https://open.pdf.ist/paper/size.css (📦 minified, recommended, CDN-backed by ⛅ Cloudflare)
+* https://open.pdf.ist/paper/size.css <br>(📦 minified, via ⛅ Cloudflare CDN)
 
 
 ### State
