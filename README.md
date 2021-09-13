@@ -48,7 +48,7 @@
 ISO 4A0 2A0 A0→10 A2→5-extra A3→4-super super-A3→4 A4-long  ✔️
             B0→10   B5-extra                                ✔️
             C0→10   C7/6 DL                                 ✔️
-JIS     JIS-B0→12                                           ✔️
+JPN     JIS-B0→12                                           ✔️
 CHN         D0→6                                            ✔️
            RD0→6                                            ✔️
 USA letter legal ...                                        🚧
