@@ -24,7 +24,8 @@
       --h:  paper height                                      297        11
       --hu: paper height × unit == calc(var(--h) * var(--u))  297mm      11in
     */
-    aspect-ratio: var(--w) / var(--h); width: var(--wu);
+    aspect-ratio: var(--w) / var(--h);
+           width: var(--wu);
   }
   .paper { background-color: #fbfbf8; outline: 1px solid #ccc; }
 </style>
