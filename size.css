@@ -35,40 +35,40 @@ LICENSED UNDER BSD-3
 [size=A10]      { --w:   26; --h:   37; --u: 1mm; } [size=B10] { --w:   31; --h:   44; --u: 1mm; } [size=C10]    { --w:   28; --h:   40; --u: 1mm; }
 
 /* ISO EXTRAS */
-[size=A2-extra] { --w:  445; --h: 619; --u: 1mm; }
-[size=A3-extra] { --w:  322; --h: 445; --u: 1mm; }
-[size=A3-super] { --w:  305; --h: 508; --u: 1mm; }
-[size=super-A3] { --w:  305; --h: 487; --u: 1mm; }
-[size=A4-extra] { --w:  235; --h: 322; --u: 1mm; }
-[size=A4-super] { --w:  229; --h: 322; --u: 1mm; }
-[size=super-A4] { --w:  227; --h: 356; --u: 1mm; }
-[size=A4-long]  { --w:  210; --h: 348; --u: 1mm; }
-[size=A5-extra] { --w:  173; --h: 235; --u: 1mm; }
-[size=B5-extra] { --w:  202; --h: 276; --u: 1mm; } /* SO-B5-extra */
+[size=A2-extra] { --w:  445; --h:  619; --u: 1mm; }
+[size=A3-extra] { --w:  322; --h:  445; --u: 1mm; }
+[size=A3-super] { --w:  305; --h:  508; --u: 1mm; }
+[size=super-A3] { --w:  305; --h:  487; --u: 1mm; }
+[size=A4-extra] { --w:  235; --h:  322; --u: 1mm; }
+[size=A4-super] { --w:  229; --h:  322; --u: 1mm; }
+[size=super-A4] { --w:  227; --h:  356; --u: 1mm; }
+[size=A4-long]  { --w:  210; --h:  348; --u: 1mm; }
+[size=A5-extra] { --w:  173; --h:  235; --u: 1mm; }
+[size=B5-extra] { --w:  202; --h:  276; --u: 1mm; } /* SO-B5-extra */
 
 /* JPN B */ /* Japanese */
-[size=JIS-B0]  { --w: 1030; --h: 1456; --u: 1mm; }
-[size=JIS-B1]  { --w:  728; --h: 1030; --u: 1mm; }
-[size=JIS-B2]  { --w:  515; --h:  728; --u: 1mm; }
-[size=JIS-B3]  { --w:  364; --h:  515; --u: 1mm; }
-[size=JIS-B4]  { --w:  257; --h:  364; --u: 1mm; }
-[size=JIS-B5]  { --w:  182; --h:  257; --u: 1mm; }
-[size=JIS-B6]  { --w:  128; --h:  182; --u: 1mm; }
-[size=JIS-B7]  { --w:   91; --h:  128; --u: 1mm; }
-[size=JIS-B8]  { --w:   64; --h:   91; --u: 1mm; }
-[size=JIS-B9]  { --w:   45; --h:   64; --u: 1mm; }
-[size=JIS-B10] { --w:   32; --h:   45; --u: 1mm; }
-[size=JIS-B11] { --w:   22; --h:   32; --u: 1mm; }
-[size=JIS-B12] { --w:   16; --h:   22; --u: 1mm; }
+[size=JIS-B0]   { --w: 1030; --h: 1456; --u: 1mm; }
+[size=JIS-B1]   { --w:  728; --h: 1030; --u: 1mm; }
+[size=JIS-B2]   { --w:  515; --h:  728; --u: 1mm; }
+[size=JIS-B3]   { --w:  364; --h:  515; --u: 1mm; }
+[size=JIS-B4]   { --w:  257; --h:  364; --u: 1mm; }
+[size=JIS-B5]   { --w:  182; --h:  257; --u: 1mm; }
+[size=JIS-B6]   { --w:  128; --h:  182; --u: 1mm; }
+[size=JIS-B7]   { --w:   91; --h:  128; --u: 1mm; }
+[size=JIS-B8]   { --w:   64; --h:   91; --u: 1mm; }
+[size=JIS-B9]   { --w:   45; --h:   64; --u: 1mm; }
+[size=JIS-B10]  { --w:   32; --h:   45; --u: 1mm; }
+[size=JIS-B11]  { --w:   22; --h:   32; --u: 1mm; }
+[size=JIS-B12]  { --w:   16; --h:   22; --u: 1mm; }
 
 /* CHN D RD */ /* Chinese */
-[size=D0] { --w:  764; --h: 1064; --u: 1mm; } [size=RD0] { --w:  787; --h: 1092; --u: 1mm; }
-[size=D1] { --w:  532; --h:  760; --u: 1mm; } [size=RD1] { --w:  546; --h:  787; --u: 1mm; }
-[size=D2] { --w:  380; --h:  528; --u: 1mm; } [size=RD2] { --w:  393; --h:  546; --u: 1mm; }
-[size=D3] { --w:  264; --h:  376; --u: 1mm; } [size=RD3] { --w:  273; --h:  393; --u: 1mm; }
-[size=D4] { --w:  188; --h:  260; --u: 1mm; } [size=RD4] { --w:  196; --h:  273; --u: 1mm; }
-[size=D5] { --w:  130; --h:  184; --u: 1mm; } [size=RD5] { --w:  136; --h:  196; --u: 1mm; }
-[size=D6] { --w:   92; --h:  126; --u: 1mm; } [size=RD6] { --w:   98; --h:  136; --u: 1mm; }
+[size=D0]       { --w:  764; --h: 1064; --u: 1mm; } [size=RD0] { --w:  787; --h: 1092; --u: 1mm; }
+[size=D1]       { --w:  532; --h:  760; --u: 1mm; } [size=RD1] { --w:  546; --h:  787; --u: 1mm; }
+[size=D2]       { --w:  380; --h:  528; --u: 1mm; } [size=RD2] { --w:  393; --h:  546; --u: 1mm; }
+[size=D3]       { --w:  264; --h:  376; --u: 1mm; } [size=RD3] { --w:  273; --h:  393; --u: 1mm; }
+[size=D4]       { --w:  188; --h:  260; --u: 1mm; } [size=RD4] { --w:  196; --h:  273; --u: 1mm; }
+[size=D5]       { --w:  130; --h:  184; --u: 1mm; } [size=RD5] { --w:  136; --h:  196; --u: 1mm; }
+[size=D6]       { --w:   92; --h:  126; --u: 1mm; } [size=RD6] { --w:   98; --h:  136; --u: 1mm; }
 
 
 /* USA 🚧 */ /* North American */
