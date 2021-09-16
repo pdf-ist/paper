@@ -2,7 +2,7 @@
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
-* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not really needed](#usage) but *makes sizing things a true breeze*™)<br><sub><sub><sub>(If your browser does not [support `aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) yet, see [**Usage**](#usage) section below for a simpler demo!)</sub></sub></sub>
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not needed](#usage) but *it just makes sizing things a true breeze*™)
 
 ```
 (👇🏻 quick demo interactions legend 👇🏻)
@@ -26,7 +26,9 @@ anywhere
 
 [![size.css](https://user-images.githubusercontent.com/27027/133064911-97187ace-5662-422a-a07e-79e15a7455b0.png)](//open.pdf.ist/paper/size/)
 
-<sup>⚠️ There was a problem with the above quick demo affecting latest Firefox and Safari 15 TP, which has now been addressed!</sup>
+<sup>⚠️ There was a problem with the above quick demo affecting latest Firefox and Safari 15 TP, which has now been addressed!</sup><br>
+<sup>⚠️ Browsers that do not support `aspect-ratio` will now be notified and offered a direct link to the below simpler codepen!</sup>
+
 
 ### Usage
 
@@ -56,6 +58,9 @@ anywhere
 <div size=A4     class=paper></div>
 <div size=letter class=paper></div>
 ```
+
+* [codepen 👆🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
+
 
 ### URL
 
