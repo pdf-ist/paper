@@ -2,7 +2,7 @@
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
-* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is not really needed but *makes sizing things a true breeze*™)
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not really needed](#usage) but *makes sizing things a true breeze*™)<br><br><sup>(If your browser does not [support `aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio), see [**Usage**](#usage) section below for a simpler demo!)</sup>
 
 ```
 on <pdf-page>
@@ -43,6 +43,7 @@ anywhere
     aspect-ratio: var(--w) / var(--h);
            width: var(--wu);
   }
+  @supports not (aspect-ratio: 1 / 1) { [size] { height: var(--hu); } }  
 
   .paper { background-color: #fbfbf8; outline: 1px solid #ccc; }
   .paper[size=letter] { position: absolute; transform: translateY(-100%); }
