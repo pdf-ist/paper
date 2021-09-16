@@ -5,6 +5,8 @@
 * [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not really needed](#usage) but *makes sizing things a true breeze*™)<br><sub><sub><sub>(If your browser does not [support `aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) yet, see [**Usage**](#usage) section below for a simpler demo!)</sub></sub></sub>
 
 ```
+(👇🏻 quick demo interactions legend 👇🏻)
+
 on <pdf-page>
 𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽: next page
 𝗿𝗶𝗴𝗵𝘁-𝗰𝗹𝗶𝗰𝗸/𝗹𝗼𝗻𝗴-𝘁𝗮𝗽: previous page
