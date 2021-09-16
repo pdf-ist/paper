@@ -2,7 +2,25 @@
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
-* https://open.pdf.ist/paper/size/ (👈🏻 demo)
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) (👈🏻 quick demo, requires CSS [aspect-ratio](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>(`aspect-ratio` is not really needed but *makes sizing things a true breeze*™)
+
+```
+on <pdf-page>
+𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽: next page
+𝗿𝗶𝗴𝗵𝘁-𝗰𝗹𝗶𝗰𝗸/𝗹𝗼𝗻𝗴-𝘁𝗮𝗽: previous page
+
+on a paper size
+𝗵𝗼𝘃𝗲𝗿 (🖱️ mouse): highlight size
+𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽: overlay size on <pdf-page> and focus
+
+anywhere
+𝘁𝗮𝗯 (⌨️ key): switch focus between sizes
+𝗲𝘀𝗰 (⌨️ key): cancel size overlay
+
+
+(𝘐𝘧 𝘺𝘰𝘶 𝘥𝘰 𝘯𝘰𝘵 𝘴𝘦𝘦 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘶𝘱𝘨𝘳𝘢𝘥𝘦 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳...
+𝘙𝘦𝘢𝘥 𝘮𝘰𝘳𝘦 𝘰𝘯 𝘵𝘩𝘪𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘨𝘪𝘵𝘩𝘶𝘣 𝘱𝘢𝘨𝘦 𝘶𝘯𝘥𝘦𝘳 𝗦𝗲𝗲 𝗮𝗹𝘀𝗼!)
+```
 
 [![size.css](https://user-images.githubusercontent.com/27027/133064911-97187ace-5662-422a-a07e-79e15a7455b0.png)](//open.pdf.ist/paper/size/)
 
