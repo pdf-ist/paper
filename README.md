@@ -1,4 +1,4 @@
-# 🌐📄 paper
+# 🌐📄 paper <sub><sub><sub>(by [<img src="https://webpdf.pro/.svg" width="16"> Web**PDF**.*pro*](https://WebPDF.pro))</sub></sub></sub>
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
@@ -81,7 +81,7 @@ USA letter legal ...                                        🚧
 
 ### See also
 
-* https://caniuse.com/mdn-css_properties_aspect-ratio<br>not really needed but *makes sizing things a true breeze*™
+* https://caniuse.com/mdn-css_properties_aspect-ratio<br>[not needed](#usage) but *it just makes sizing things a true breeze*™
 
 
 ---
@@ -90,7 +90,7 @@ USA letter legal ...                                        🚧
 
 This project is proudly sponsored by
 
-| [`<pdf-page>`](//WebPDF.pro) |
+| [`<pdf-file>`<br>`<pdf-page>`](//WebPDF.pro) |
 | :-: |
 | [<img src="https://webpdf.pro/.svg" width="64">](//WebPDF.pro) |
 | [Web**PDF**.*pro*](//WebPDF.pro) |
