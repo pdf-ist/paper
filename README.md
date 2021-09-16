@@ -2,7 +2,7 @@
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
-* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) (👈🏻 quick demo, requires CSS [aspect-ratio](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>(`aspect-ratio` is not really needed but *makes sizing things a true breeze*™)
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is not really needed but *makes sizing things a true breeze*™)
 
 ```
 on <pdf-page>
