@@ -1,8 +1,8 @@
 # 🌐📄 paper
 
-## 📏 [`size.css`](//open.pdf.ist/paper/size/)
+## 📏 [`size.css`](//open.pdf.ist/paper/size/)<br><sub><sub><sub>(If your browser does not [support `aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) yet, see [**Usage**](#usage) section below for a simpler demo!)</sub></sub></sub>
 
-* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not really needed](#usage) but *makes sizing things a true breeze*™)<br><br><sup>(If your browser does not [support `aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio), see [**Usage**](#usage) section below for a simpler demo!)</sup>
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not really needed](#usage) but *makes sizing things a true breeze*™)
 
 ```
 on <pdf-page>
