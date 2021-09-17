@@ -101,5 +101,5 @@ Now featuring WASM-powered<br>
 
 ## 💧 🚚 🌐📄🎁<br>codrops WebPDF.*pro* gift
 
-Mention `codrops` when you contact us at https://webpdf.pro/#💬 ¹ to get your free `🌐 World-wide` [Web**PDF**.*pro*](https://WebPDF.pro) license!<br>
+Mention `codrops` when you contact us at https://webpdf.pro/#💬 ¹ to get your free `🌐 World-wide` [Web**PDF**.*pro*](https://WebPDF.pro)!<br>
 <sub>¹ also available via email at [`codrops@webpdf.pro`](mailto:codrops@webpdf.pro)</sub>
