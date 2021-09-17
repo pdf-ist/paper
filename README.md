@@ -99,7 +99,7 @@ in the form of HTML custom elements
 Now featuring WASM-powered<br>
 [high-fidelity](https://github.com/pdf-ist/WebPDF/discussions) `♊ PDFium` rendering.
 
-## 💧 🚚 🌐📄🎁 codrops WebPDF.*pro* gift
+## 💧 🚚 🌐📄🎁<br>codrops WebPDF.*pro* gift
 
 Mention `codrops` when you contact us at https://webpdf.pro/#💬 ¹ to get a free `🌐 World-wide` [Web**PDF**.*pro*](https://WebPDF.pro) license!<br>
 <sub>¹ also available via email at [`codrops@webpdf.pro`](mailto:codrops@webpdf.pro)</sub>
