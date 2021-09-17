@@ -2,7 +2,7 @@
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
-* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/), utilizes [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio))<br>([`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) is [not needed](#usage) but *it just makes sizing things a true breeze*™)
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/))
 
 ```
 (👇🏻 quick demo interactions legend 👇🏻)
@@ -18,10 +18,6 @@ on a paper size
 anywhere
 𝘁𝗮𝗯 (⌨️ key): switch focus between sizes
 𝗲𝘀𝗰 (⌨️ key): cancel size overlay
-
-
-(𝘐𝘧 𝘺𝘰𝘶 𝘥𝘰 𝘯𝘰𝘵 𝘴𝘦𝘦 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘶𝘱𝘨𝘳𝘢𝘥𝘦 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳...
-𝘙𝘦𝘢𝘥 𝘮𝘰𝘳𝘦 𝘰𝘯 𝘵𝘩𝘪𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘨𝘪𝘵𝘩𝘶𝘣 𝘱𝘢𝘨𝘦 𝘶𝘯𝘥𝘦𝘳 𝗦𝗲𝗲 𝗮𝗹𝘀𝗼!)
 ```
 
 [![size.css](https://user-images.githubusercontent.com/27027/133064911-97187ace-5662-422a-a07e-79e15a7455b0.png)](//open.pdf.ist/paper/size/)
@@ -32,7 +28,7 @@ anywhere
 
 ### Usage
 
-* [codepen 👇🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
+* [**codepen** 👇🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
 
 ```HTML
 <link href=//open.pdf.ist/paper/size.css rel=stylesheet>
@@ -59,7 +55,7 @@ anywhere
 <div size=letter class=paper></div>
 ```
 
-* [codepen 👆🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
+* [**codepen** 👆🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
 
 
 ### URL
