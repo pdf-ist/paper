@@ -23,7 +23,7 @@ anywhere
 [![size.css](https://user-images.githubusercontent.com/27027/133064911-97187ace-5662-422a-a07e-79e15a7455b0.png)](//open.pdf.ist/paper/size/)
 
 <sup>⚠️ There was a problem with the above quick demo affecting latest Firefox and Safari 15 TP, which has now been addressed!</sup><br>
-<sup>⚠️ Browsers that do not support `aspect-ratio` will now be notified and offered a direct link to the below simpler codepen!</sup>
+<sup>⚠️ Browsers that do not support [`aspect-ratio`](https://caniuse.com/mdn-css_properties_aspect-ratio) will now be notified and offered a direct link to the below simpler codepen!</sup>
 
 
 ### Usage
@@ -98,3 +98,8 @@ in the form of HTML custom elements
 
 Now featuring WASM-powered<br>
 [high-fidelity](https://github.com/pdf-ist/WebPDF/discussions) `♊ PDFium` rendering.
+
+## 💧🎁 codrops gift
+
+Mention `codrops` when you contact us at https://webpdf.pro/#💬 ¹ to get a free `🌐 World-wide` multi-site license!<br>
+<sub>¹ also available via email at `codrops@webpdf.pro`</sub>
