@@ -60,7 +60,7 @@ anywhere
 
 ### URL
 
-* [https://<u>open</u>.**PDF**.*ist*/paper/size.css](https://open.pdf.ist/paper/size.css) <br>(📦 minified, via ⛅ Cloudflare CDN)
+* [https://<u>open</u>.**PDF**.*ist*/paper/size.css](https://open.pdf.ist/paper/size.css)<br><sub>📦 auto-minified<br>⛅ via Cloudflare</sub>
 
 
 ### Series
@@ -77,7 +77,7 @@ USA letter legal ...                                        🚧
 
 ### See also
 
-* https://caniuse.com/mdn-css_properties_aspect-ratio<br>[not needed](#usage) but *it just makes sizing things a true breeze*™
+* https://caniuse.com/mdn-css_properties_aspect-ratio<br><sub>[not needed](#usage) but *it just makes sizing things a true breeze*™</sub>
 
 
 ---
@@ -101,5 +101,5 @@ Now featuring WASM-powered<br>
 
 ## 💧 🚚 🌐📄🎁<br>codrops WebPDF.*pro* gift
 
-Mention `codrops` when you contact us at https://webpdf.pro/#💬 ¹ to get your free `🌐 World-wide` [Web**PDF**.*pro*](https://WebPDF.pro)!<br>
+Mention `codrops` when you contact us at [https://Web**PDF**.*pro*/#💬](https://WebPDF.pro/#💬) ¹ to get your free `🌐 World-wide` license!<br>
 <sub>¹ also available via email at [`codrops@webpdf.pro`](mailto:codrops@webpdf.pro)</sub>
