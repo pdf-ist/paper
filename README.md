@@ -2,10 +2,10 @@
 
 ## 📏 [`size.css`](//open.pdf.ist/paper/size/)
 
-* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **quick demo**](https://open.pdf.ist/paper/size/))
+* [**https://open.pdf.ist/paper/size/**](https://open.pdf.ist/paper/size/) ([👈🏻 **demo**](https://open.pdf.ist/paper/size/))
 
 ```
-(👇🏻 quick demo interactions legend 👇🏻)
+(👇🏻 demo interactions legend 👇🏻)
 
 on <pdf-page>
 𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽: next page
