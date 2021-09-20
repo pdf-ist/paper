@@ -8,16 +8,16 @@
 (👇🏻 demo interactions legend 👇🏻)
 
 on <pdf-page>
-𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽: next page
-𝗿𝗶𝗴𝗵𝘁-𝗰𝗹𝗶𝗰𝗸/𝗹𝗼𝗻𝗴-𝘁𝗮𝗽: previous page
+𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽 (🖱️/👆🏻): next page
+𝗿𝗶𝗴𝗵𝘁-𝗰𝗹𝗶𝗰𝗸/𝗹𝗼𝗻𝗴-𝘁𝗮𝗽 (🖱️/👆🏻): previous page
 
 on a paper size
-𝗵𝗼𝘃𝗲𝗿 (🖱️ mouse): highlight size
-𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽: overlay size on <pdf-page> and focus
+𝗵𝗼𝘃𝗲𝗿 (🖱️): highlight size
+𝗰𝗹𝗶𝗰𝗸/𝘁𝗮𝗽 (🖱️/👆🏻): overlay size on <pdf-page> and focus
 
 anywhere
-𝘁𝗮𝗯 (⌨️ key): switch focus between sizes
-𝗲𝘀𝗰 (⌨️ key): cancel size overlay
+𝘁𝗮𝗯 (⌨️): switch focus between sizes
+𝗲𝘀𝗰 (⌨️): cancel size overlay
 ```
 
 [![size.css](https://user-images.githubusercontent.com/27027/133064911-97187ace-5662-422a-a07e-79e15a7455b0.png)](//open.pdf.ist/paper/size/)
