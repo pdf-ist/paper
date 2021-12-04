@@ -28,7 +28,7 @@ anywhere
 
 ### Usage
 
-* [**codepen** 👇🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
+* [**link to playground** 👇🏻](//try.webpdf.pro/paper/)
 
 ```HTML
 <link href=//open.pdf.ist/paper/size.css rel=stylesheet>
@@ -55,7 +55,7 @@ anywhere
 <div size=letter class=paper></div>
 ```
 
-* [**codepen** 👆🏻](//codepen.io/webpdf/pen/OJggOwa?editors=1000)
+* [**link to playground** 👆🏻](//try.webpdf.pro/paper/)
 
 
 ### URL
