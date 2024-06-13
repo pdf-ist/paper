@@ -28,7 +28,7 @@ anywhere
 
 ### Usage
 
-* [**link to playground** 👇🏻](//paper.sy.ht/?)
+* [**link to playground** 👇🏻](//paper.rt.ht/?)
 
 ```HTML
 <link href=//open.pdf.ist/paper/size.css rel=stylesheet>
@@ -55,7 +55,7 @@ anywhere
 <div size=letter class=paper></div>
 ```
 
-* [**link to playground** 👆🏻](//paper.sy.ht/?)
+* [**link to playground** 👆🏻](//paper.rt.ht/?)
 
 
 ### URL
